@@ -1,0 +1,17 @@
+.image1{
+    width: 80%;
+}
+.Head{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.Head2{
+    width: 75%;
+}
+.btn{
+    width: 22%;
+    height: 30px;
+    margin-bottom: 120px;
+}
